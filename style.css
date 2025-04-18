@@ -1,14 +1,22 @@
 /* 画像の親要素があれば幅100%に */
-.image-container {
-    max-width: 100%;
-    height: auto;
-    padding: 10px;
-  }
-  
-  /* 画像自体も幅100%で縮小・拡大に対応 */
-  .image-container img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
+.header{
+  background:linear-gradient(100deg,#efdae5,#939be9);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.nayami{
+  background:l(#e5e2c8);
+  color: rgb(9, 9, 9);
+  padding: 100px 0;
+  text-align: center;
+}
+
+.footer{
+  background:linear-gradient(100deg,#efdae5,#c8cdf6);;
+  padding: 40px 0;
+  text-align: center;
+}
+
   
