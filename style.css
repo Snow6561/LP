@@ -5,6 +5,10 @@
   padding: 100px 0;
   text-align: center;
 }
+.feature-icon{
+  font-size: 50px;
+  
+}
 
 .nayami{
   background:l(#e5e2c8);
@@ -12,9 +16,16 @@
   padding: 100px 0;
   text-align: center;
 }
+.reason{
+  background:linear-gradient(100deg,#f4a9cc,#a3abe7);
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+}
+
 
 .footer{
-  background:linear-gradient(100deg,#efdae5,#c8cdf6);;
+  background:linear-gradient(100deg,#f3e0e9,#d2d5ec);
   padding: 40px 0;
   text-align: center;
 }
